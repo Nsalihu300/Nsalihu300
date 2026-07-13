@@ -1,113 +1,90 @@
-# Hello, I'm Nuhu Salihu 
+<h1 align="center">Hello, I'm Nuhu Salihu </h1>
+<h4 align="center">Cybersecurity Analyst | Aspiring Red Teamer | Network Security Enthusiast</h4>
 
-<a href="#">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:salihunuhu994@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
 
 ## About Me
 
-I am a passionate Cybersecurity student with hands on experience in network security, malware analysis, vulnerability assessment, Windows internals, Linux administration, and Python scripting. I enjoy solving real-world security challenges through practical labs, technical reports, and security focused projects.
+I am a passionate Cybersecurity student dedicated to protecting digital systems through practical security solutions and continuous learning. My experience includes network security, malware analysis, vulnerability assessment, Windows internals, Linux administration, Python scripting, and security-focused research.
 
-My interests include Blue Team operations, Security Operations Center (SOC), Incident Response, Digital Forensics, Network Defense, and Security Automation. I continuously expand my knowledge by building projects that demonstrate practical cybersecurity skills and industry best practices.
-
----
-
-# Objective
-
-I am seeking an entry-level Cybersecurity position where I can apply my technical knowledge, analytical thinking, and hands-on experience to help organizations strengthen their security posture. My goal is to continue developing my expertise in Security Operations (SOC), Network Security, Incident Response, Threat Detection, and Cyber Defense while contributing to real-world security operations.
+I enjoy building secure network infrastructures, investigating cyber threats, analyzing malware, and developing practical cybersecurity projects that reflect real-world scenarios. My goal is to continuously improve my technical expertise while contributing to the cybersecurity community through hands-on learning and professional development.
 
 ---
 
-# Skills
+## Objective
 
-| Skill | Associated Project |
-|-----------------------------------------------|----------------------------|
-| Malware Traffic Analysis | Malware Traffic Analysis Investigation |
-| Network Risk Assessment | NextGen Security Risk Assessment |
-| Password Security Assessment | Password Security Assessment |
-| PCI DSS Compliance Assessment | PCI DSS Compliance Checklist |
-| Role-Based Access Control (RBAC) | RBAC Lab |
-| File Integrity Verification (SHA256) | SHA256 Integrity Lab |
-| Network Security Implementation | Secure IoT Network using Cisco ASA |
-| Vulnerability Assessment | OWASP ZAP Security Assessment |
-| Python Scripting | Python Cybersecurity Scripts |
-| Windows Internals | Windows Security Labs |
+I am seeking an entry-level Cybersecurity position where I can apply my technical skills, analytical thinking, and passion for information security to help organizations strengthen their cyber defenses. I aspire to grow into a well-rounded security professional with expertise in Security Operations (SOC), Incident Response, Network Defense, Vulnerability Management, and Ethical Hacking.
 
 ---
 
-# Tools
+## Technical Skills
 
-## Network
+| Skill                        | Project                                |
+|------------------------------|----------------------------------------|
+| Malware Traffic Analysis     | Malware Traffic Analysis Investigation |
+| Risk Assessment              | NextGen Security Risk Assessment       |
+| Password Security Assessment | Password Security Assessment           |
+| PCI DSS Compliance           | PCI DSS Compliance Checklist           |
+| Role-Based Access Control    | RBAC Lab                               |
+| File Integrity Monitoring    | SHA256 Integrity Lab                   |
+| Secure Network Design        | Cisco ASA IoT Security Project         |
+| Vulnerability Assessment     | OWASP ZAP Security Assessment          |
+| Network Traffic Analysis     | Wireshark Labs                         |
+| Python Automation            | Python Cybersecurity Scripts           |
 
+---
+
+## Security Tools
+
+**Networking**
 <div>
-
 <img src="https://img.shields.io/badge/-Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/-Nmap-00457C?style=for-the-badge"/>
-
 </div>
 
----
-
-## Security
-
+**Security**
 <div>
-
 <img src="https://img.shields.io/badge/-OWASP_ZAP-00549E?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/-Burp_Suite-FF6633?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/-Metasploit-2596CD?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/-SQLMap-red?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/-Nessus-00C176?style=for-the-badge"/>
-
 </div>
 
----
-
-## Operating Systems
-
+**Operating Systems**
 <div>
-
 <img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-
 <img src="https://img.shields.io/badge/-Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-
 </div>
 
----
-
-## Programming
-
+**Programming**
 <div>
-
 <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/-Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
 </div>
 
 ---
 
-# Certifications
+## Certifications
 
 - Cisco Networking Academy
-- Microsoft Security Training
-- HP LIFE Certifications
+- 3MTT Nigeria
+- OPSWAT Academy – Introduction to Critical Infrastructure Protection (CIP)
+- HP AI Course
 - edX Professional Courses
 - Alison Cybersecurity Courses
+- edX Professional Course
 
 ---
 
-# Featured Projects
+## Featured Projects
 
 -  Secure IoT Network using Cisco ASA Firewall
 -  Malware Traffic Analysis Investigation
@@ -115,7 +92,7 @@ I am seeking an entry-level Cybersecurity position where I can apply my technica
 -  Password Security Assessment
 -  PCI DSS Compliance Checklist
 -  Role-Based Access Control (RBAC) Lab
--  SHA256 File Integrity Verification Lab
+-  SHA256 File Integrity Verification
 -  OWASP ZAP Vulnerability Assessment
 -  Python Cybersecurity Scripts
 -  Windows Internals Labs
@@ -124,28 +101,28 @@ I am seeking an entry-level Cybersecurity position where I can apply my technica
 
 ## Currently Learning
 
-- Advanced Python Scripting
 - Windows Internals
 - Active Directory
-- Security Operations Center (SOC)
+- Python for Cybersecurity
 - Threat Hunting
-- Malware Analysis
 - Cloud Security
-- Digital Forensics
 
 ---
 
 ## GitHub Statistics
 
-*(GitHub Stats and Streak cards will be added later.)*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nsalihu300&layout=compact&theme=transparent&hide_border=true" height="165">
+</p>
 
 ---
 
-## Contact
+## Let's Connect
 
-- Email: your-email@example.com
-- LinkedIn: Coming Soon
+- 📧 Email: salihunuhu994@gmail.com
+- 💼 LinkedIn: Coming Soon
 
 ---
 
-> **"Cybersecurity is a continuous journey of learning, adapting, and defending against evolving threats."**
+> **"Cybersecurity is not only about defending systems—it's about continuously learning, adapting, and staying one step ahead of evolving threats."**
