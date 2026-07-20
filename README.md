@@ -92,7 +92,7 @@ I am seeking an entry-level Cybersecurity position where I can apply my technica
 -  Password Security Assessment
 -  PCI DSS Compliance Checklist
 -  Role-Based Access Control (RBAC) Lab
--  SHA256 File Integrity Verification
+-  [SHA256 File Integrity Verification](https://github.com/Nsalihu300/sha256-file-integrity-verification)
 -  OWASP ZAP Vulnerability Assessment
 -  Python Cybersecurity Scripts
 -  Windows Internals Labs
