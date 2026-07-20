@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Nuhu Salihu </h1>
-<h4 align="center">Cybersecurity Analyst | Aspiring Red Teamer | Network Security Enthusiast</h4>
+<h4 align="center">Cybersecurity Student | Network Security Enthusiast | Aspiring Cybersecurity Analyst</h4>
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -9,9 +9,8 @@
 
 ## About Me
 
-I am a passionate Cybersecurity student dedicated to protecting digital systems through practical security solutions and continuous learning. My experience includes network security, malware analysis, vulnerability assessment, Windows internals, Linux administration, Python scripting, and security-focused research.
-
-I enjoy building secure network infrastructures, investigating cyber threats, analyzing malware, and developing practical cybersecurity projects that reflect real-world scenarios. My goal is to continuously improve my technical expertise while contributing to the cybersecurity community through hands-on learning and professional development.
+I am a passionate Cybersecurity student with hands-on experience in network security, malware analysis, vulnerability assessment, Windows internals, Linux administration, and Python scripting. I enjoy solving real-world security challenges through practical labs, technical reports, and security focused projects.
+My interests include Blue Team operations, Security Operations Center (SOC), Incident Response, Digital Forensics, Network Defense, and Security Automation. I continuously expand my knowledge by building projects that demonstrate practical cybersecurity skills and industry best practices.
 
 ---
 
@@ -54,6 +53,7 @@ I am seeking an entry-level Cybersecurity position where I can apply my technica
 <img src="https://img.shields.io/badge/-Metasploit-2596CD?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/-SQLMap-red?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/-Nessus-00C176?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-John_the_Ripper-000000?style=for-the-badge"/>  
 </div>
 
 **Operating Systems**
@@ -125,4 +125,4 @@ I am seeking an entry-level Cybersecurity position where I can apply my technica
 
 ---
 
-> **"Cybersecurity is not only about defending systems—it's about continuously learning, adapting, and staying one step ahead of evolving threats."**
+> **"Cybersecurity is not only about defending systems it's about continuously learning, adapting, and staying one step ahead of evolving threats."**
