@@ -78,7 +78,6 @@ I am seeking an entry-level Cybersecurity position where I can apply my technica
 - 3MTT Nigeria
 - OPSWAT Academy – Introduction to Critical Infrastructure Protection (CIP)
 - HP AI Course
-- edX Professional Courses
 - Alison Cybersecurity Courses
 - edX Professional Course
 
