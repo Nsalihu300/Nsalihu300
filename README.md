@@ -90,7 +90,7 @@ I am seeking an entry-level Cybersecurity position where I can apply my technica
 -  NextGen Security Risk Assessment
 -  Password Security Assessment
 -  PCI DSS Compliance Checklist
--  [Role-Based Access Control (RBAC) Lab](https://github.com/Nsalihu300/Role-Based-Access-Control-(RBAC)-Lab).
+-  [Role-Based Access Control (RBAC) Lab](https://github.com/Nsalihu300/Role-Based-Access-Control-RBAC-Lab).
 -  [SHA256 File Integrity Verification](https://github.com/Nsalihu300/sha256-file-integrity-verification)
 -  OWASP ZAP Vulnerability Assessment
 -  Python Cybersecurity Scripts
