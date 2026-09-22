@@ -89,7 +89,7 @@ I am seeking an entry-level Cybersecurity position where I can apply my technica
 -  Malware Traffic Analysis InvestigationI
 -  NextGen Security Risk Assessment
 -  Password Security Assessment
--  PCI DSS Compliance Checklist
+-  [PCI DSS Compliance Checklist](https://github.com/Nsalihu300/PCI-DSS-Compliance-Checklist)
 -  [Role-Based Access Control (RBAC) Lab](https://github.com/Nsalihu300/Role-Based-Access-Control-RBAC-Lab).
 -  [SHA256 File Integrity Verification](https://github.com/Nsalihu300/sha256-file-integrity-verification)
 -  OWASP ZAP Vulnerability Assessment
