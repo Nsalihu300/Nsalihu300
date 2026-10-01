@@ -86,6 +86,7 @@ I am seeking an entry-level Cybersecurity position where I can apply my technica
 ## Featured Projects
 
 -  Secure IoT Network using Cisco ASA Firewall
+-  [Penetration-Testing-Metasploitable2](https://github.com/Nsalihu300/Penetration-Testing-Metasploitable2)
 -  [Malware-Traffic-Analysis](https://github.com/Nsalihu300/Malware-Traffic-Analysis)
 -  NextGen Security Risk Assessment
 -  [Password-Security-Assessment](https://github.com/Nsalihu300/Password-Security-Assessment)
