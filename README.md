@@ -88,7 +88,7 @@ I am seeking an entry-level Cybersecurity position where I can apply my technica
 -  Secure IoT Network using Cisco ASA Firewall
 -  [Penetration-Testing-Metasploitable2](https://github.com/Nsalihu300/Penetration-Testing-Metasploitable2)
 -  [Malware-Traffic-Analysis](https://github.com/Nsalihu300/Malware-Traffic-Analysis)
--  NextGen Security Risk Assessment
+-  [NextGen-Security-Risk-Assessment](https://github.com/Nsalihu300/NextGen-Security-Risk-Assessment)
 -  [Password-Security-Assessment](https://github.com/Nsalihu300/Password-Security-Assessment)
 -  [PCI DSS Compliance Checklist](https://github.com/Nsalihu300/PCI-DSS-Compliance-Checklist)
 -  [Role-Based Access Control (RBAC) Lab](https://github.com/Nsalihu300/Role-Based-Access-Control-RBAC-Lab).
